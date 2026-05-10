@@ -1,0 +1,30 @@
+# Claude Code lokal ayarları
+.claude/
+CLAUDE.md
+.claudeignore
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Rproj.user/
+*.Rproj
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Geçici / log
+*.log
+/tmp/
+
+# Large local cache (opsiyonel — istersen sil)
+# data/turkey_history.csv  # 326KB, repoda kalsa daha kolay
